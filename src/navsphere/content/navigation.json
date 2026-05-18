@@ -1528,6 +1528,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1779109251673",
+      "title": "出海开户",
+      "icon": "Database",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

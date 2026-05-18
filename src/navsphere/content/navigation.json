@@ -1535,7 +1535,16 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1779109295932",
+          "title": "giffgaff",
+          "href": "https://www.giffgaff.com/orders/affiliate/16493806_1778741898378",
+          "description": "英国0月租eSIM电话卡 | 可长期持有保号16年 | giffgaff开卡教程 | 保号神卡 | eSIM | 接码手机卡",
+          "icon": "/assets/favicon_1779109303340.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]

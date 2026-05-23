@@ -508,6 +508,14 @@
               "description": "Tencent EdgeOne，亚洲领先的CDN，利用腾讯先进的边缘节点提供卓越的边缘解决方案，用于加速、安全、无服务器和视频。",
               "icon": "/assets/favicon_1755225933031.webp",
               "enabled": true
+            },
+            {
+              "id": "1779511727804",
+              "title": "Render · The Easiest Cloud For All Your Apps",
+              "href": "https://dashboard.render.com/",
+              "description": "Render 是一体化云平台，可搭建并部署各类应用与网站，配备免费 SSL 证书、全球内容分发网络、专用内网，支持从代码仓库自动部署。推荐用来部署网站后端。",
+              "icon": "/assets/favicon_1779511733169.png",
+              "enabled": true
             }
           ]
         },

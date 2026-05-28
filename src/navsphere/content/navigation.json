@@ -522,7 +522,7 @@
               "title": "Supabase",
               "href": "https://supabase.com/",
               "description": "Supabase 开源后端平台，依托强大的 PostgreSQL 数据库，内置身份认证、即时 API、实时推送、云函数、文件存储、向量嵌入等全套能力，无需从零搭建后端，快速开发生产级应用，支持免费上手。",
-              "icon": "https://getlogo.net/wp-content/uploads/2020/11/supabase-logo-vector.png",
+              "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp",
               "enabled": true
             }
           ]

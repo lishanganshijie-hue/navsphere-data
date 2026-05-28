@@ -813,6 +813,14 @@
               "description": "Self-hosting platform with superpowers. Deploy apps, databases &#38; 280+ services to your server. Open-source alternative to Heroku.",
               "icon": "/assets/favicon_1761279686786.webp",
               "enabled": true
+            },
+            {
+              "id": "1779972856611",
+              "title": "UptimeRobot",
+              "href": "https://dashboard.uptimerobot.com/monitors",
+              "description": "UptimeRobot 一站式管理所有监测任务，可集中管理各类网站、服务监测任务，平台免费提供 50 个监控名额，实时检测运行状态，及时发现故障问题，运维、建站必备利器。",
+              "icon": "/assets/favicon_1779972859428.ico",
+              "enabled": true
             }
           ]
         },

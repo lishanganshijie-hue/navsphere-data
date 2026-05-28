@@ -819,7 +819,7 @@
               "title": "UptimeRobot",
               "href": "https://dashboard.uptimerobot.com/monitors",
               "description": "UptimeRobot 一站式管理所有监测任务，可集中管理各类网站、服务监测任务，平台免费提供 50 个监控名额，实时检测运行状态，及时发现故障问题，运维、建站必备利器。",
-              "icon": "/assets/favicon_1779972859428.ico",
+              "icon": "https://framerusercontent.com/images/LUfj3Wtf4rSkQ19ocMokPTaCJI.svg",
               "enabled": true
             }
           ]

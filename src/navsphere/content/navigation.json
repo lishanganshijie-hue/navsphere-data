@@ -516,6 +516,14 @@
               "description": "Render 是一体化云平台，可搭建并部署各类应用与网站，配备免费 SSL 证书、全球内容分发网络、专用内网，支持从代码仓库自动部署。推荐用来部署网站后端。",
               "icon": "/assets/img_1779512025920.png",
               "enabled": true
+            },
+            {
+              "id": "1779973236977",
+              "title": "Supabase",
+              "href": "https://supabase.com/",
+              "description": "Supabase 开源后端平台，依托强大的 PostgreSQL 数据库，内置身份认证、即时 API、实时推送、云函数、文件存储、向量嵌入等全套能力，无需从零搭建后端，快速开发生产级应用，支持免费上手。",
+              "icon": "/assets/favicon_1779973256678.png",
+              "enabled": true
             }
           ]
         },

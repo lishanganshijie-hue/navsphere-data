@@ -524,6 +524,14 @@
               "description": "Supabase 开源后端平台，依托强大的 PostgreSQL 数据库，内置身份认证、即时 API、实时推送、云函数、文件存储、向量嵌入等全套能力，无需从零搭建后端，快速开发生产级应用，支持免费上手。",
               "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/supabase.webp",
               "enabled": true
+            },
+            {
+              "id": "1781082789259",
+              "title": "UptimeRobot：免费网站监控服务",
+              "href": "https://uptimerobot.com/",
+              "description": "可以用来监控各种后端和数据库的网站，保持不休眠，30 秒内即可开启监控。支持高级 SSL 检测、关键词监控与定时任务监控，可通过邮件、短信、Slack 等多种方式接收告警通知。免费提供 50 个监控额度！",
+              "icon": "/assets/favicon_1781082789185.ico",
+              "enabled": true
             }
           ]
         },

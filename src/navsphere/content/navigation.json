@@ -1674,14 +1674,6 @@
               "description": "giffgaff 是英国知名虚拟移动运营商，依托 O2 网络运营，提供灵活手机套餐、SIM 卡、宽带及手机售卖服务，支持欧盟漫游，可分期购机，服务性价比高，还配套专属管理 APP。",
               "icon": "/assets/favicon_1781181455206.png",
               "enabled": true
-            },
-            {
-              "id": "1781181615522",
-              "title": "ZA | 众安银行",
-              "href": "https://za.group/",
-              "description": "za.group 是香港众安旗下综合金融平台，运营香港持牌数字银行 ZA Bank 与数字保险 ZA Insure。支持极速线上开户，提供低息贷款、跨境理财通等服务，业务全面数字化，服务便捷多元。",
-              "icon": "/assets/favicon_1781181621265.png",
-              "enabled": true
             }
           ]
         }

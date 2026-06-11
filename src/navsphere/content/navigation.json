@@ -1657,6 +1657,14 @@
               "description": "SupayCard 提供虚拟信用卡、跨境支付、ChatGPT 续费、Steam 支付等服务。安全、灵活、支持 API 接入。",
               "icon": "/assets/favicon_1781181338326.ico",
               "enabled": true
+            },
+            {
+              "id": "1781181700266",
+              "title": "ZA | Be different, together",
+              "href": "https://za.group/",
+              "description": "za.group 是香港众安旗下综合金融平台，运营香港持牌数字银行 ZA Bank 与数字保险 ZA Insure。支持极速线上开户，提供低息贷款、跨境理财通等服务，业务全面数字化，服务便捷多元。",
+              "icon": "/assets/favicon_1781181707198.png",
+              "enabled": true
             }
           ]
         },

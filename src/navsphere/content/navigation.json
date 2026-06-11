@@ -1664,6 +1664,14 @@
               "description": "专为 Cloudflare Workers 打造的 ProxyIP 检测工具，用于解决 Workers 无法直连 Cloudflare 自有 IP 段的限制。它可模拟真实网络连接，验证第三方代理 IP 能否反向代理 Cloudflare 443 端口，检测 IP 可用性、响应耗时与所属机房。平台提供 RESTful API，支持单条及批量检测，返回标准化 JSON 结果，适配 edgetunnel 等相关项目，帮助用户筛选稳定中转节点，保障服务正常访问托管于 Cloudflare 的站点。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=check.proxyip.cmliussss.net",
               "enabled": true
+            },
+            {
+              "id": "site_1781186163929_s2vrqlii7",
+              "title": "同iP域名反查",
+              "href": "https://site.ip138.com/213.210.5.20/",
+              "description": "",
+              "icon": "/assets/favicon_1781186136699.png",
+              "enabled": true
             }
           ]
         },

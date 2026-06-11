@@ -679,6 +679,14 @@
               "description": "借助 KataBump，轻松搭建属于你自己的 Discord 机器人,免费域名和服务器注册",
               "icon": "/assets/favicon_1781169345618.png",
               "enabled": true
+            },
+            {
+              "id": "1781178725784",
+              "title": "ZoneABC - 免费5个域名",
+              "href": "https://zoneabc.net/",
+              "description": "ZoneABC 是一款免费的专业子域名管理系统，秉持 “免费、安全、对开发者友好的互联网基础设施应向所有人开放” 的理念，主打低成本、高安全性的域名与 DNS 管理服务，面向全球开发者、学生、开源项目、非营利组织及初创团队等群体免费提供服务。",
+              "icon": "/assets/favicon_1781178784098.svg",
+              "enabled": true
             }
           ]
         },

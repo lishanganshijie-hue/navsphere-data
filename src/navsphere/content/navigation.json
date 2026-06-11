@@ -1648,6 +1648,14 @@
               "description": "AbuseIPDB 是社区驱动的恶意 IP 信誉数据库，由 Marathon Studios Inc 运营，面向运维人员与网络管理者使用。平台支持查询 IP 的恶意行为记录、信誉评分、归属地与运营商信息，也可主动上报垃圾邮件、暴力破解、DDoS 等风险 IP。它提供免费查询额度与 API 接口，便于接入防火墙、服务器等系统做安全防护，是网络安全领域常用的 IP 风控工具。",
               "icon": "/assets/favicon_1781182099435.png",
               "enabled": true
+            },
+            {
+              "id": "1781183647602",
+              "title": "Check ProxyIP",
+              "href": "https://check.proxyip.cmliussss.net/",
+              "description": "专为 Cloudflare Workers 打造的 ProxyIP 检测工具，用于解决 Workers 无法直连 Cloudflare 自有 IP 段的限制。它可模拟真实网络连接，验证第三方代理 IP 能否反向代理 Cloudflare 443 端口，检测 IP 可用性、响应耗时与所属机房。平台提供 RESTful API，支持单条及批量检测，返回标准化 JSON 结果，适配 edgetunnel 等相关项目，帮助用户筛选稳定中转节点，保障服务正常访问托管于 Cloudflare 的站点。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=check.proxyip.cmliussss.net",
+              "enabled": true
             }
           ]
         },

@@ -687,6 +687,14 @@
               "description": "ZoneABC 是一款免费的专业子域名管理系统，秉持 “免费、安全、对开发者友好的互联网基础设施应向所有人开放” 的理念，主打低成本、高安全性的域名与 DNS 管理服务，面向全球开发者、学生、开源项目、非营利组织及初创团队等群体免费提供服务。",
               "icon": "/assets/favicon_1781178784098.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1781185115447_zp6uegbuf",
+              "title": "publicsuffix.org",
+              "href": "https://publicsuffix.org/list/public_suffix_list.dat",
+              "description": "public_suffix_list.dat 是公共后缀列表（PSL） 的核心数据文件，查域名是否被收录必备，由 Mozilla 发起、全球志愿者共同维护并持续更新。文件汇总了全球所有可对外注册的域名公共后缀，包含.com、.co.uk等通用后缀及各国国别域名、多级域名规则。它属于开源公共资源，广泛应用于浏览器 Cookie 隔离、域名解析校验、SSL 证书签发、网络风控、云服务域名判定等场景，也是 Cloudflare 等平台判断独立站点、区分主域名与子域名的重要依据，所有网络开发者与服务商均可免费调用使用。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=publicsuffix.org",
+              "enabled": true
             }
           ]
         },

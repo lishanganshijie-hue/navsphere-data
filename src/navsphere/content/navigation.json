@@ -1659,6 +1659,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "34bc71ba-13b7-490e-a11f-85f15eccc31c",
+          "title": "电话卡",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }

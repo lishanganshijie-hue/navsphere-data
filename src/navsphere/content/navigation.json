@@ -1640,6 +1640,14 @@
               "description": "ping0.cc 是一款简洁实用的在线 IP 检测工具，支持 IPv4 与 IPv6 查询，可获取 IP 归属地、运营商、ASN 等基础信息。它能精准区分住宅 IP、机房 IP 等类型，识别代理与 VPN，并依据网络行为给出风险评分，判断 IP 洁净度。平台无需注册即可使用，还提供 API 接口，数据参考性较强，广泛应用于账号注册风控、代理 IP 筛选、网络安全排查等场景，深受网络从业者青睐。",
               "icon": "/assets/favicon_1781181974245.png",
               "enabled": true
+            },
+            {
+              "id": "1781182097778",
+              "title": "AbuseIPDB-社区驱动的恶意 IP 信誉数据库",
+              "href": "https://www.abuseipdb.com/",
+              "description": "AbuseIPDB 是社区驱动的恶意 IP 信誉数据库，由 Marathon Studios Inc 运营，面向运维人员与网络管理者使用。平台支持查询 IP 的恶意行为记录、信誉评分、归属地与运营商信息，也可主动上报垃圾邮件、暴力破解、DDoS 等风险 IP。它提供免费查询额度与 API 接口，便于接入防火墙、服务器等系统做安全防护，是网络安全领域常用的 IP 风控工具。",
+              "icon": "/assets/favicon_1781182099435.png",
+              "enabled": true
             }
           ]
         },

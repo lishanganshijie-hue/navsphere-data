@@ -1616,6 +1616,14 @@
               "description": "本站为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。",
               "icon": "/assets/favicon_1781178428741.ico",
               "enabled": true
+            },
+            {
+              "id": "1781181764161",
+              "title": "IPHub",
+              "href": "https://iphub.info/?ip=213.210.5.20",
+              "description": "IPHub.info 是 2014 年上线的专业IP 地址风控检测平台，主打识别代理、VPN、数据中心等风险 IP，助力电商、游戏、社交平台防范网络欺诈。平台依托自动化系统结合人工核验保障数据精准度，面向中小企业广泛提供服务。基础版每日可免费查询 1000 次，高用量用户可选购商业套餐，同时开放 API 接口，还能查询 IP 属地、运营商等附加信息，适配多样化风控场景。",
+              "icon": "/assets/favicon_1781181768302.png",
+              "enabled": true
             }
           ]
         },

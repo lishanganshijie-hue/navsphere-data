@@ -1649,6 +1649,14 @@
               "description": "LemFi 是一家合规金融科技平台，主打多币种钱包与低价国际汇款服务，支持英美、加拿大、欧洲等地区向亚非 30 余国转账，多数转账免手续费、到账迅速，同时提供 Visa 借记卡、境外 eSIM 等附加服务，具备支付安全认证并配备全天候客服。",
               "icon": "/assets/favicon_1781181265325.png",
               "enabled": true
+            },
+            {
+              "id": "1781181306625",
+              "title": "SupayCard | 虚拟信用卡 · 海淘支付 · 数字支付管家",
+              "href": "https://www.supaycard.com/",
+              "description": "SupayCard 提供虚拟信用卡、跨境支付、ChatGPT 续费、Steam 支付等服务。安全、灵活、支持 API 接入。",
+              "icon": "/assets/favicon_1781181338326.ico",
+              "enabled": true
             }
           ]
         }

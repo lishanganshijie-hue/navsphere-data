@@ -1633,6 +1633,14 @@
               "description": "160+ 个国家/地区，40 种货币，一个账户。进行国际汇款、消费及管理资金的同时为您节省费用。大陆用户友好",
               "icon": "/assets/favicon_1781181100097.png",
               "enabled": true
+            },
+            {
+              "id": "1781181130952",
+              "title": "iFAST Global Bank | Open An Account Online",
+              "href": "https://www.ifastgb.com/",
+              "description": "iFAST Global Bank（奕丰环球银行） 的官方站点，它是新加坡上市金融集团奕丰（iFAST Corporation）旗下、总部位于英国伦敦的全牌照数字银行，受英国审慎监管局（PRA）与金融行为监管局（FCA）双重监管，平台主打线上全流程服务，无需前往线下网点，支持全球用户（包含中国大陆用户）远程实名开户，开户免费、无账户年费与最低余额要求，核心产品为多币种活期账户，支持英镑、美元、欧元、人民币、港币、新加坡元等九种主流货币一站式管理，同时提供活期存款、定期存款、通知存款等多元化储蓄服务，各类币种存款可享受对应计息收益。",
+              "icon": "/assets/favicon_1781181149786.ico",
+              "enabled": true
             }
           ]
         }

@@ -1666,7 +1666,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1781181451482",
+              "title": "Giffgaff",
+              "href": "https://www.giffgaff.com/",
+              "description": "giffgaff 是英国知名虚拟移动运营商，依托 O2 网络运营，提供灵活手机套餐、SIM 卡、宽带及手机售卖服务，支持欧盟漫游，可分期购机，服务性价比高，还配套专属管理 APP。",
+              "icon": "/assets/favicon_1781181455206.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }

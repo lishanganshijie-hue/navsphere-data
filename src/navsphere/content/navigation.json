@@ -1618,6 +1618,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "984d0bed-4809-4791-98bb-823e9aa05079",
+          "title": "银行开户",
+          "icon": "Home",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }

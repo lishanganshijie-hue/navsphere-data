@@ -1593,7 +1593,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e468f82f-2e5b-4107-97bc-20fef4673b19",
+          "title": "IP测速",
+          "icon": "LayoutGrid",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }

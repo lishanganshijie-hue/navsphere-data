@@ -671,6 +671,14 @@
               "description": "访问 my.dnshe.com",
               "icon": "/assets/favicon_1779512130308.png",
               "enabled": true
+            },
+            {
+              "id": "1781169341879",
+              "title": "KataBump",
+              "href": "https://dashboard.katabump.com/",
+              "description": "借助 KataBump，轻松搭建属于你自己的 Discord 机器人,免费域名和服务器注册",
+              "icon": "/assets/favicon_1781169345618.png",
+              "enabled": true
             }
           ]
         },

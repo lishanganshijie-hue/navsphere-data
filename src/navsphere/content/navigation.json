@@ -1672,6 +1672,14 @@
               "description": "",
               "icon": "/assets/favicon_1781186136699.png",
               "enabled": true
+            },
+            {
+              "id": "site_1781611786672_zwkl7bhfe",
+              "title": "ipleak",
+              "href": "https://ipleak.net/",
+              "description": "ipleak.net是全球公认的免费网络隐私泄漏综合检测工具，无需注册登录即可一键完成全套网络环境校验，是代理、VPN、指纹浏览器环境自检的标准平台。网站可同时检测 IPv4/IPv6 出口 IP、DNS 解析服务器、WebRTC 真实内网 IP、地理位置、浏览器 UA、系统时区语言、P2P 下载 IP 等关键信息，精准排查 DNS 泄漏、WebRTC 旁路泄露两大风控高危问题。",
+              "icon": "/assets/favicon_1781611701010.png",
+              "enabled": true
             }
           ]
         },
